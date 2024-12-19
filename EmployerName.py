@@ -10,6 +10,7 @@ class Employer:
         print(f"Depertment: {self.Department}")
         print(f"Age: {self.Age}")
 
-Employer1 = Employer()
-Employer1.Display()
+for i in range(1,3):
+    employer1 = Employer()
+    employer1.Display()
 
