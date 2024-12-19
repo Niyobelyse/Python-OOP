@@ -6,6 +6,10 @@ class Employer:
     
     def Display(self):
         print("Your data will be displayed in this format")
-        print(self.Name)
-        print(self.Department)
-        print(self.Age)
+        print(f"Name: {self.Name}")
+        print(f"Depertment: {self.Department}")
+        print(f"Age: {self.Age}")
+
+Employer1 = Employer()
+Employer1.Display()
+
