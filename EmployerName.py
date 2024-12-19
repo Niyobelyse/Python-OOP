@@ -6,9 +6,7 @@ class Employer:
     
     def Display(self):
         print("Your data will be displayed in this format")
-        print(f"Name: {self.Name}")
-        print(f"Depertment: {self.Department}")
-        print(f"Age: {self.Age}")
+        print("{} \t {} \t {}".format(self.Name,self.Department,self.Age))
 
 for i in range(1,3):
     employer1 = Employer()
