@@ -7,10 +7,11 @@ class Telephone:
     
 
     def Calling(self):
+        self.name = input("Enter name to call")
         if self.name in self.Phonebook.values():
             print(f"Calling {self.name}")
         else:
-            print("We don't have {self.name} in phonebook")
+            print(f"We don't have {self.name} in phonebook")
 
 
 
