@@ -17,7 +17,7 @@
 
 <h2> How to create class</h2>
 
-class class_name:
+class class_name:<br> &nbsp;&nbsp;&nbsp;&nbsp;
     class body
       
 
