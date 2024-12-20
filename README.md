@@ -14,4 +14,12 @@
 <li><h2> What Is Class</h2></li>
 </ol>
 <p>A straightforward answer to this question is- A class is a collection of objects.  Unlike primitive data structures, classes are data structures that the user defines. They make the code more manageable.</p>
+
+<h2> How to create class</h2>
+
+class class_name:
+    class body
+      
+
+
 </div>
