@@ -27,5 +27,22 @@ class CellPhone(Telephone):
 
 
 phone1=CellPhone()
-phone1.Calling()
-phone1.Messaging()
+# phone1.Calling()
+# phone1.Messaging()
+
+print("""
+Choose from the below choice
+1.Call
+2.Message
+3.Exit
+""")
+choise = int(input())
+if choise == 1:
+    phone1.Calling()
+elif choise == 2:
+    phone1.Messaging()
+elif choise == 3:
+    print(exit())
+
+
+
