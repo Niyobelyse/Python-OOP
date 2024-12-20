@@ -12,6 +12,6 @@
 
 <ol tpye="number">
 <li><h2> What Is Class</h2></li>
-<p>A straightforward answer to this question is- A class is a collection of objects.  Unlike primitive data structures, classes are data structures that the user defines. They make the code more manageable.</p>
 </ol>
+<p>A straightforward answer to this question is- A class is a collection of objects.  Unlike primitive data structures, classes are data structures that the user defines. They make the code more manageable.</p>
 </div>
